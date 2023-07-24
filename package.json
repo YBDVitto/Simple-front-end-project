@@ -1,0 +1,9 @@
+{
+  "name": "html-fund-me-fcc",
+  "version": "1.0.0",
+  "main": "deploy.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
